@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const makalahContent = document.getElementById('makalah-content');
     const nextButton = document.getElementById('next-button');
     const backButton = document.getElementById('back-button');
-
     // Fungsi untuk menampilkan halaman makalah
     function showMakalah() {
         // Sembunyikan Cover
